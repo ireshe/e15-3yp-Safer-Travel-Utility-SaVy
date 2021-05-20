@@ -78,8 +78,6 @@ So, in our service layer, simply what happens is trackers send real time GPS coo
 
 ### Documents  
 - [Project Report](data/documents/savy_proposal.pptx)  
-### Other Links
-
 - <a href = "https://github.com/cepdnaclk/e15-3yp-Safer-Travel-Utility-SaVy" target = "_blank"> Project Repository </a>
 - <a href = "https://cepdnaclk.github.io/e15-3yp-Safer-Travel-Utility-SaVy/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
