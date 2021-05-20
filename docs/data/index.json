@@ -1,41 +1,33 @@
 {
-    "title": "This is the title of the project",
+    "title": "Safer Travel Utility (SaVy)",
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "THILAKARATHNE E.R.R.I.",
+            "email": "ireshe@outlook.com",
+            "eNumber": "E/15/363"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "CHANDRASIRI S.A.G.L.",
+            "email": "laksaragayal1996@gmail.com",
+            "eNumber": "E/15/048"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "BHAGYA T.P.Y.",
+            "email": "yasirubhagya@eng.pdn.ac.lk",
+            "eNumber": "E/15/043"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk",
+            "linkedin_profile":"https://www.linkedin.com/in/roshanragel/",
+            "researchgate_profile":"https://www.researchgate.net/profile/Roshan-Ragel"
         },
         {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
         }
     ],
-    "tags": ["Web", "Embedded Systems"]
+    "tags": []
 }
