@@ -22,10 +22,7 @@ title: Safer Travel Utility (SaVy)
 1. [Introduction](#introduction)
 2. [Solution Architecture](#solution-architecture )
 3. [Hardware & Software Designs](#hardware-and-software-designs)
-4. [Testing](#testing)
-5. [Detailed budget](#detailed-budget)
-6. [Conclusion](#conclusion)
-7. [Links](#links)
+4. [Links](#links)
 
 ---
 
@@ -39,7 +36,7 @@ According to the Wikipedia once CTB was the largest omnibus company in the world
 ## Solution Architecture
 
 In introduction we explained issues that we are facing in Sri Lanka, now will see how we are going to make SaVy Happen.  
-[Image of Outsiders view](data/images/savy_final2.jpg)  
+![Image of Outsiders view](data/images/savy_final2.jpg)  
 
 But in order to do this thing, we are planning to build our architecture like image below  
 ![Image of Architecture](data/images/savy_final1.jpg)  
