@@ -34,7 +34,8 @@ According to the Wikipedia once CTB was the largest omnibus company in the world
 
 ## Links  
 ### Documents  
-- [Project Report](docs/data/documents/savy_proposal.pptx)
+- [Project Report](docs/data/documents/savy_proposal.pptx)  
+
 ### Other Links
 
 - <a href = "https://github.com/cepdnaclk/e15-3yp-Safer-Travel-Utility-SaVy" target = "_blank"> Project Repository </a>
